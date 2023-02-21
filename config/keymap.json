@@ -3,11 +3,11 @@
   "keymap": "default",
   "layout": "LAYOUT",
   "layer_names": [
-    "base",
+    "qwerty",
     "keypad",
     "fn",
     "mod",
-    "dvorak"
+    "base"
   ],
   "layers": [
     [
